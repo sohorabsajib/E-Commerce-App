@@ -1,0 +1,82 @@
+[
+  {
+      "id": "1",
+      "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Ergonomic Office Chair",
+      "brand_name": "OfficeCo",
+      "price": 199.99,
+      "rating": 4.8
+  },
+  {
+      "id": "2",
+      "image": "https://images.pexels.com/photos/2029665/pexels-photo-2029665.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Leather Recliner Chair",
+      "brand_name": "ComfortPlus",
+      "price": 349.99,
+      "rating": 4.7
+  },
+  {
+      "id": "3",
+      "image": "https://images.pexels.com/photos/1866140/pexels-photo-1866140.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "High Back Mesh Chair",
+      "brand_name": "ErgoTech",
+      "price": 249.99,
+      "rating": 4.5
+  },
+  {
+      "id": "4",
+      "image": "https://images.pexels.com/photos/1161487/pexels-photo-1161487.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Gaming Chair with Footrest",
+      "brand_name": "GamerZone",
+      "price": 299.99,
+      "rating": 4.9
+  },
+  {
+      "id": "5",
+      "image": "https://images.pexels.com/photos/1979673/pexels-photo-1979673.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Swivel Task Chair",
+      "brand_name": "FlexiChair",
+      "price": 129.99,
+      "rating": 4.2
+  },
+  {
+      "id": "6",
+      "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Executive Leather Chair",
+      "brand_name": "LuxSeating",
+      "price": 399.99,
+      "rating": 4.6
+  },
+  {
+      "id": "7",
+      "image": "https://images.pexels.com/photos/1029623/pexels-photo-1029623.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Modern Accent Chair",
+      "brand_name": "StyleFurnish",
+      "price": 89.99,
+      "rating": 4.3
+  },
+  {
+      "id": "8",
+      "image": "https://images.pexels.com/photos/1112440/pexels-photo-1112440.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Adjustable Bar Stool",
+      "brand_name": "BaristaCo",
+      "price": 59.99,
+      "rating": 4.0
+  },
+  {
+      "id": "9",
+      "image": "https://images.pexels.com/photos/276516/pexels-photo-276516.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Foldable Dining Chair",
+      "brand_name": "HomeEssentials",
+      "price": 39.99,
+      "rating": 3.8
+  },
+  {
+      "id": "10",
+      "image": "https://images.pexels.com/photos/276533/pexels-photo-276533.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "chair_name": "Rocking Chair",
+      "brand_name": "RelaxPoint",
+      "price": 149.99,
+      "rating": 4.7
+  }
+]
